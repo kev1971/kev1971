@@ -108,7 +108,9 @@ graph TD;
   ### Java
 
   Видеоуроки:
+  
   [Java с нуля / Ablazing](https://www.youtube.com/playlist?list=PLw265NhvhLXHptSyZ93dFd_7AoPnJTF1T)
+  
   [Программирование на Java (весна 2022) Computer Science Center / Тахир Валеев](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTCB2OxGlezpgOXwq4xer7Z)
 
   ### Swift
