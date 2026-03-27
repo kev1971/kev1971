@@ -115,7 +115,7 @@ graph TD;
 
   [swift-book](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
 
-  [Youtube Свифт Марафон / Скутеренко](ttps://www.youtube.com/watch?v=YgEHfnD6_1c&list=PL6724Ll8v6UhOq6Otjw-rUPFsZVmoCLFm&index=3)
+  [Youtube Свифт Марафон / Скутеренко](https://www.youtube.com/watch?v=YgEHfnD6_1c&list=PL6724Ll8v6UhOq6Otjw-rUPFsZVmoCLFm&index=3)
 
   [Основы Swift](https://youtube.com/playlist?list=PLUb9K99oQb2u1swlk6TTuV1vnMEG8ktfV&si=rUU5zRR_HHfa68sV)
   
