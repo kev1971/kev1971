@@ -43,6 +43,8 @@
 
 Начал изучение с азов и установки версии 0.14. Конечно через brew install neovim
 
+Игра для изучения vim (https://vim-adventures.com/)
+
 [NeoVim #2. Мнемоники и прокачка внешнего вида.](https://www.youtube.com/watch?v=S4SL9-k1qOw&list=PLzWf2xLEjn8bnlh2yJ3W0eYbvcwkwA5F2&index=2)
 
 ## GitHub
