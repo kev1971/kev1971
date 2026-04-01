@@ -39,9 +39,15 @@
   
 # Вот список моих интересов: 
 
+## NeoVim
+
+Начал изучение с азов и установки версии 0.14. Конечно через brew install neovim
+
+[NeoVim #2. Мнемоники и прокачка внешнего вида.](https://www.youtube.com/watch?v=S4SL9-k1qOw&list=PLzWf2xLEjn8bnlh2yJ3W0eYbvcwkwA5F2&index=2)
+
 ## GitHub
 
-  Тут я изучаю [MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Тут я изучаю [MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
   <details>
   <summary> Mermaid диаграмы </summary>
@@ -88,7 +94,7 @@ graph TD;
   | Месяц | Скорость wpm |
   | :---: |--------------|
   |  Март | 13wpm 15 English Letters|
-  | Апрель|              |
+  | Апрель 1| 12wpm 17 English Letters EH:03|
   
   </details>    
 
