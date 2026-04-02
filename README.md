@@ -102,7 +102,7 @@ graph TD;
   | Апрель 1| 12wpm 17 English Letters EH:03|
   | Апрель 2| 13wpm 17 English Letters EH:03|
 
-  [Typing after chenge keyboard to k:03]|(typing-after-split.png)
+  [Typing after chenge keyboard to k:03](typing-after-split.png)
   
   </details>    
 
