@@ -94,7 +94,7 @@ graph TD;
   <details>
   <summary> Мой прогрес в клавиатурном тренажёре Keybr </summary>
   
-  [Keybr](https://www.keybr.com/)
+  ![Keybr](https://www.keybr.com/)
   
   | Месяц | Скорость wpm |
   | :---: |--------------|
