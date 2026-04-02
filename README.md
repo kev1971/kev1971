@@ -47,6 +47,9 @@
 
 [NeoVim #2. Мнемоники и прокачка внешнего вида.](https://www.youtube.com/watch?v=S4SL9-k1qOw&list=PLzWf2xLEjn8bnlh2yJ3W0eYbvcwkwA5F2&index=2)
 
+### Режим движения hjkl - освоено
+
+
 ## GitHub
 
 Тут я изучаю [MarkDown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
