@@ -116,6 +116,7 @@ graph TD;
   * [Keychron](https://keychron-russia.com/) Промышленный производитель выросший из краудфандинга
   * [ErgoHaven](https://eh.works/) Классная контора в Краснодаре - делает сплит клавиатуры
   * [Фигурные клавиши на Авито](https://www.avito.ru/moskva/tovary_dlya_kompyutera/keykapy_klp_lame_i_reptiloid_dlya_klaviatury_7974187203?utm_campaign=native&utm_medium=item_page_ios&utm_source=soc_sharing)
+  * [Keycup profiles](https://en.akkogear.com/blog-ultimate-guide-to-keycap-profiles/)
   * [Репозиторий для печати](https://github.com/vvhg1/clp-keycaps?tab=readme-ov-file)
   * [Заказ с форума образец](https://t.me/c/1464748383/1/125392)
   * Сейчас у меня такая клава [CIDOO Alice](https://github.com/kev1971/CIDOO-ABM066/)
