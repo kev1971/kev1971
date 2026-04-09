@@ -104,6 +104,7 @@ graph TD;
   |  Март | 13wpm 15 English Letters|
   | Апрель 1| 12wpm 17 English Letters EH:03|
   | Апрель 2| 13wpm 17 English Letters EH:03|
+  | Апрель 9| 13wpm 16 Lettres 98.7 Accuracy|
 
   [Typing after chenge keyboard to k:03](typing-after-split.png)
   
