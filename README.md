@@ -107,7 +107,7 @@ graph TD;
   | Апрель 9| 13wpm 16 Lettres 98 Accuracy|
   | Апрель 9| 10wpm 9 Букв 96 Accuracy|
 
-  [Typing after chenge keyboard to k:03](typing-after-split.png)
+  ![Typing after chenge keyboard to k:03](typing-after-split.png)
   
   </details>    
 
