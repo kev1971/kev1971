@@ -125,6 +125,11 @@ graph TD;
   * [Заказ с форума образец](https://t.me/c/1464748383/1/125392)
   * Сейчас у меня такая клава [CIDOO Alice](https://github.com/kev1971/CIDOO-ABM066/)
   * [EH K:03](https://eh.works/k03)
+  * Outemu Silent Tom - на К:03
+  * [CIDOO Silent Blue Switch - Cidoo ABM066 silent blue switch (Белая)](https://www.ozon.ru/product/mehanicheskaya-besprovodnaya-klaviatura-cidoo-abm066-silent-blue-switch-belaya-dlya-kompyutera-2606064097/) 
+  * [keychron q10 Gateron Jupiter Red
+Gateron Jupiter Brown
+Gateron Jupiter Banana AKKO lavander purple](https://www.avito.ru/moskva/tovary_dlya_kompyutera/klaviatura_keychron_q10_7951757535) (https://keychron-russia.com/q10max)
         
 ## Языки программирования
 
