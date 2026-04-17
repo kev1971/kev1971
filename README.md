@@ -100,7 +100,7 @@ graph TD;
   [Keybr](https://www.keybr.com/)
   
   | Месяц | Скорость wpm English | Скорость wpm Русский |
-  | :---: |--------------|
+  | :---: |--------------|--------------|
   |  Март | 13wpm 15 Letters||
   | Апрель 1| 12wpm 17 Letters EH:03||
   | Апрель 2| 13wpm 17 Letters EH:03|
