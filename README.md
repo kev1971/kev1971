@@ -132,8 +132,8 @@ graph TD;
   * [keychron q10 Gateron Jupiter Red
 Gateron Jupiter Brown
 Gateron Jupiter Banana AKKO lavander purple](https://www.avito.ru/moskva/tovary_dlya_kompyutera/klaviatura_keychron_q10_7951757535) (https://keychron-russia.com/q10max)
-  * (HRM программа)[https://github.com/wontaeyang/hrm]
-  * (qmk mod tap[https://docs.qmk.fm/mod_tap]
+  * [HRM программа](https://github.com/wontaeyang/hrm)
+  * [qmk mod tap](https://docs.qmk.fm/mod_tap)
     
 ## Языки программирования
 
