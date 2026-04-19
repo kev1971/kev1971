@@ -110,7 +110,7 @@ graph TD;
 
   ![Typing after chenge keyboard to k:03](typing-after-split.png)
   ![2026-04-17](keybr-progress-20260427.png)
-  ![2026-04-19](keybr-progress-20260427.png)
+  ![2026-04-19](20260419.png)
   
 
   
