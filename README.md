@@ -51,7 +51,11 @@
 ### Прыжки по словам w e b W B
 ### i, Esc, a, I, A
 ### y, u, x
-### o, O
+### o, O 
+#### o (lowercase): Opens a new line below the current cursor position.
+#### O (uppercase): Opens a new line above the current cursor position. 
+
+
 
 ## GitHub
 
