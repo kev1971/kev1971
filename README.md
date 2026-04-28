@@ -116,9 +116,12 @@ graph TD;
   ![Typing after chenge keyboard to k:03](typing-after-split.png)
   ![2026-04-17](keybr-progress-20260427.png)
   ![2026-04-19](20260419.png)
+  English
   ![2026-04-27](20260427.png)
   ![2026-04-27 stats](20260427-stats.png)
-  
+  Rus
+  ![2026-04-28](20260428-rus.png)
+
 
   
   </details>    
