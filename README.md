@@ -113,6 +113,7 @@ graph TD;
   | Апрель 19| dst 16 all 15wpm 12 Lettres 96 Accuracy| 14wpm 8 Букв 96 Accuracy|
   | Апрель 27| dst 16 20wpm 98 Accuracy| | 
   | Апрель 28| | dst 16 19wpm 96 Accuracy| |
+  | Май 10| 24 wpm 97 Acc | 19wpm 97 Accuracy| |
 
   ![Typing after chenge keyboard to k:03](typing-after-split.png)
   ![2026-04-17](keybr-progress-20260427.png)
