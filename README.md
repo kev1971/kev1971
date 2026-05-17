@@ -41,6 +41,8 @@
 
 ## [Слепая печать на клавиатуре](typing.md)
 
+## [Клавиатуры](keyboards.md)
+
 ## [NeoVim](neovim.md)
 
 ## GitHub
@@ -76,10 +78,6 @@ graph TD;
     
 ```
   </details>    
-
-
-
-## [Клавиатуры](keyboards.md)
 
 ## Языки программирования
 
