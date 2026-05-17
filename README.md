@@ -94,6 +94,8 @@ graph TD;
 
 ## Слепая печать на клавиатуре
 
+[typing](typing.md)
+
   * Хороший клавиатурный тренажер [Keybr](https://www.keybr.com/) на нем я сейчас тренируюсь
 
   * Хорошая соревновалка, но я до нее не дорос [MonkeyType](https://monkeytype.com/)
