@@ -1,11 +1,6 @@
-  * Хороший клавиатурный тренажер [Keybr](https://www.keybr.com/) на нем я сейчас тренируюсь
+  # Хорошая соревновалка, но я до нее не дорос [MonkeyType](https://monkeytype.com/)
 
-  * Хорошая соревновалка, но я до нее не дорос [MonkeyType](https://monkeytype.com/)
-
-  <details>
-  <summary> Мой прогрес в клавиатурном тренажёре Keybr </summary>
-  
-  [Keybr](https://www.keybr.com/)
+  # Хороший клавиатурный тренажер [Keybr](https://www.keybr.com/) на нем я сейчас тренируюсь
   
   | Месяц | Скорость wpm English | Скорость wpm Русский |
   | :---: |--------------|--------------|
@@ -18,7 +13,8 @@
   | Апрель 27| dst 16 20wpm 98 Accuracy| | 
   | Апрель 28| | dst 16 19wpm 96 Accuracy| |
   | Май 10| 20 wpm 97 Acc | 19wpm 97 Accuracy| |
-
+  | Май 17| 28 wpm 97 Acc | 24 wpm 97 Accuracy| |
+  
   ![Typing after chenge keyboard to k:03](typing-after-split.png)
   ![2026-04-17](keybr-progress-20260427.png)
   ![2026-04-19](20260419.png)
