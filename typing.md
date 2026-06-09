@@ -10,10 +10,11 @@
   | Апрель 9| 13wpm 16 Lettres 98 Accuracy| 10wpm 9 Букв 96 Accuracy|
   | Апрель 17| 14wpm 23 Lettres 96 Accuracy| 13wpm 11 Букв 96 Accuracy|
   | Апрель 19| dst 16 all 15wpm 12 Lettres 96 Accuracy| 14wpm 8 Букв 96 Accuracy|
-  | Апрель 27| dst 16 20wpm 98 Accuracy| | 
-  | Апрель 28| | dst 16 19wpm 96 Accuracy| |
-  | Май 10| 20 wpm 97 Acc | 19wpm 97 Accuracy| |
-  | Май 17| 28 wpm 97 Acc | 24 wpm 97 Accuracy| |
+  | Апрель 27| dst 16 20wpm 98 Accuracy| 
+  | Апрель 28| | dst 16 19wpm 96 Accuracy|
+  | Май 10| 20 wpm 97 Acc | 19wpm 97 Accuracy|
+  | Май 17| 28 wpm 97 Acc | 24 wpm 97 Accuracy|
+  | Июнь 09 | 30 wpm  | 25 wpm |
   
   ![Typing after chenge keyboard to k:03](typing-after-split.png)
   ![2026-04-17](keybr-progress-20260427.png)
@@ -22,8 +23,7 @@
   ![2026-04-27](20260427.png)
   ![2026-04-27 stats](20260427-stats.png)
   English 2026-05-12
-  ![2026-05-12](20260512-english.png)
-  Rus 2026-04-28
+  ![2026-05-12](20260512-english.png)  Rus 2026-04-28
   ![2026-04-28](20260428-rus.png) 
 
 
