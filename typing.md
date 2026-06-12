@@ -15,6 +15,7 @@
   | Май 10| 20 wpm 97 Acc | 19wpm 97 Accuracy|
   | Май 17| 28 wpm 97 Acc | 24 wpm 97 Accuracy|
   | Июнь 09 | 30 wpm  | 25 wpm |
+  | Июнь 12 | 33 wpm  | 30 wpm |
   
   ![Typing after chenge keyboard to k:03](typing-after-split.png)
   ![2026-04-17](keybr-progress-20260427.png)
